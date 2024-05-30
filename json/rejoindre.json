@@ -1,0 +1,9 @@
+[
+  {
+    "courriel": " <a  href=\"mailto:restaurantsuperburger@gmail.com\"><i class=\"fa-solid fa-envelope\"    title=\"Lien courriel\"                        ></i> <span class='courriel'> restaurantsuperburger@gmail.com </span>  </a>  ",
+    "Facebook": "<a href=\"https://www.facebook.com/p/Super-Burger-100088434729163/\"  title=\"Lien Facebook\" ><i class=\"fa-brands fa-facebook\"></i>                  </a>",
+    "Instagram": "<a href=\"https://www.instagram.com/superburger1910/\"     title=\"Lien instagram\"><i class=\"fa-brands fa-instagram\"></i></a>",
+    "téléphone": "<a href=\"tel:+1579-633-1910\"   title=\"Lien téléphone\"  > <i class=\"fa-solid fa-phone\"></i> (579) 633-1910 </a>",
+    "Adresse": "1910 Chem. d'Oka, Deux-Montagnes, QC J7R 1N4"
+  }
+]

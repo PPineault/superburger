@@ -1,0 +1,15 @@
+{
+  "name": "proj_int_patrickpineault",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet.fullscreen": "^3.0.2"
+  }
+}

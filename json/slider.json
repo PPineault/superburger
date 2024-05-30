@@ -1,0 +1,8 @@
+[
+  { "image": "./images/slider/s01.png", "alt": "image1-carrousel d'image" },
+  { "image": "./images/slider/s02.png", "alt": "image2-carrousel d'image" },
+  { "image": "./images/slider/s03.png", "alt": "image3-carrousel d'image" },
+  { "image": "./images/slider/s04.png", "alt": "image4-carrousel d'image" },
+  { "image": "./images/slider/s05.png", "alt": "image5-carrousel d'image" },
+  { "image": "./images/slider/s06.png", "alt": "image6-carrousel d'image" }
+]
